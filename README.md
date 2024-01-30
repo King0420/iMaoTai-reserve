@@ -101,7 +101,12 @@ python3 main.py
 ![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/cd04ba52-70b1-4080-b766-116eadc87890)
 
 
-#### 帮忙点个小星星。QQ讨论群：811546080
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=King0420/iMaoTai-reserve&type=Date)](https://star-history.com/#King0420/iMaoTai-reserve&Date)
+
+## 帮忙点个小星星。QQ讨论群：811546080
 
 
 
