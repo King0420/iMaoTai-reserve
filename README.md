@@ -52,15 +52,38 @@ pip3 install requests
 pip3 install pycryptodome==3.17
 ```
 
-### 2、修改config.py，按照你的需求修改相关配置，这里很重要，建议每个配置项都详细阅读。
+### 2、修改config.py，按照你的需求修改相关配置，分为必须配置选项和可选配置选项。
+#### 必须配置选项
+**地图配置**：[申请KEY教程](https://lbs.amap.com/api/webservice/create-project-and-key)
+
+![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/4bbf1834-1d9d-40a6-bf9d-26674cc6c418)
+
+**个人加解密密钥配置**：
+![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/fc6fa8da-14c2-4daa-a1c0-7fc8eb7b89b5)
+
+#### 可选配置选项
+**消息推送配置**：
+![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/835123f4-37aa-473e-b794-545f08811c24)
 
 
 ### 3、按提示输入 预约位置、手机号、验证码 等，生成的token等。很长时间不再需要登录。支持多账号，支持加密。
-1. 第一次使用先清空`./myConfig/credentials`中的信息，或者直接删除`credentials`文件也可以
-2. 再去配置环境变量 `GAODE_KEY`,再运行`login.py`.
+1. 先删除myConfig文件夹下的`credentials`文件.
+2. 然后再运行`login.py`.
+3. 运行完login.py可以去./myConfig/credentials中查看.
 ```shell
 python3 login.py
-# 都选择完之后可以去./myConfig/credentials中查看
+```
+**运行结果示例**
+```shell
+mobian@mobian:~/app/imaotai$ python3 login.py
+
+请输入你的位置,例如[小区名称],为你预约本市门店商店: 军安家园
+0 : [地区:内蒙古自治区,位置:内蒙古自治区赤峰市红山区军安家园]
+请选择位置序号,重新输入请输入[-]:0
+已选择 地区:北京市,[北京市海淀区上地十街]附近的门店
+输入手机号[13812341234]:1861164****
+输入 [1861164****] 验证码[1234]:1234
+是否继续添加账号[Y/N]:n
 ```
 
 ### 4、python3 main.py ,执行预约操作
