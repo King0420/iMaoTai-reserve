@@ -100,7 +100,7 @@ python3 main.py
 ![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/cd04ba52-70b1-4080-b766-116eadc87890)
 
 
-#### 欢迎请我喝咖啡（O.o），您的赞赏将会给我带来更多动力。不用操作的可以加我的QQ：3550594238
+#### 欢迎请我喝咖啡（O.o），您的赞赏将会给我带来更多动力。、QQ讨论群：:811546080
 
 <img src="resources/imgs/wxqr.png" height="300">  <img src="resources/imgs/zfbqr.jpg" height="300">
 
