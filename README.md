@@ -46,6 +46,10 @@
 ```shell
 pip3 install --no-cache-dir -r requirements.txt
 ```
+或者
+```shell
+pip3 install 
+```
 
 ### 2、修改config.py，按照你的需求修改相关配置，这里很重要，建议每个配置项都详细阅读。
 
