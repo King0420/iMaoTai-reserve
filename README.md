@@ -95,10 +95,11 @@ mobian@mobian:~/app/imaotai$ python3 login.py
 ```shell
 python3 main.py
 ```
+![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/cd04ba52-70b1-4080-b766-116eadc87890)
 
 ### 5、配置宝塔面板，每日自动预约。
 ![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/2c88f9d5-5e44-43ab-b3df-b5240a74c3b6)
-![image](https://github.com/King0420/iMaoTai-reserve/assets/104044278/cd04ba52-70b1-4080-b766-116eadc87890)
+
 
 
 
@@ -106,7 +107,7 @@ python3 main.py
 
 [![Star History Chart](https://api.star-history.com/svg?repos=King0420/iMaoTai-reserve&type=Date)](https://star-history.com/#King0420/iMaoTai-reserve&Date)
 
-## 帮忙点个小星星。QQ讨论群：811546080
+## 帮忙点个小星星。
 
 
 
