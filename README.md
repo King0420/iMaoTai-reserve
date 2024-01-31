@@ -113,3 +113,8 @@ python3 main.py
 - [i茅台app使用windows服务器每日自动预约](https://github.com/lisongkun/HyggeImaotai)
 
 ### 帮忙点个小星星。
+
+| 53%vol 500ml贵州茅台酒（甲辰龙年）                           | 53%vol 375ml×2贵州茅台酒（甲辰龙年）                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![](https://github.com/King0420/iMaoTai-reserve/assets/104044278/9459c994-cd84-4ac6-884b-ba0c4c63c2c1) | ![](https://github.com/King0420/iMaoTai-reserve/assets/104044278/17acd549-85be-431b-b0f9-a8148c1ce87f) |
+
