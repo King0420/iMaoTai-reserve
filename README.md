@@ -110,6 +110,6 @@ python3 main.py
 
 
 ### 推荐
-- (i茅台app使用windows服务器每日自动预约)[https://github.com/lisongkun/HyggeImaotai]
+- [i茅台app使用windows服务器每日自动预约](https://github.com/lisongkun/HyggeImaotai)
 
 ### 帮忙点个小星星。
