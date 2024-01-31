@@ -103,11 +103,13 @@ python3 main.py
 
 
 
-## Star History
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=King0420/iMaoTai-reserve&type=Date)](https://star-history.com/#King0420/iMaoTai-reserve&Date)
 
-## 帮忙点个小星星。
 
 
+### 推荐
+- i茅台app使用windows服务器每日自动预约
 
+### 帮忙点个小星星。
