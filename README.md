@@ -104,9 +104,10 @@ python3 main.py
 
 
 
-### 推荐
+### 推荐项目
 - [i茅台app使用windows服务器每日自动预约](https://github.com/lisongkun/HyggeImaotai)
-- [wd210010/only_for_happly: 农夫山泉龙年抽水签到任务★恩山签到★雨云签到白嫖服务器★小茅预约★丽宝乐园小程序签到★天翼云盘签到★腾讯视频签到（会员领成长值）★阿里云盘签到★GW树洞机场签到★富贵论坛签到★一点万向签到打卡★什么值得买达人和关键词取消关注★STLXZ签到★PT站签到★帆软签到+摇摇乐★千图网签到★星空代理签到★什么值得买签到★值得买每日抽奖★小米社区签到★逑美在线app签到和抽卡★ddnsto自动续费七天★爱奇艺签到刷时长★双色球预测（娱乐） (github.com)](https://github.com/wd210010/only_for_happly)
+- [oddfar/campus-imaotai: i茅台app自动预约，每日自动预约，支持docker一键部署 (github.com)](https://github.com/oddfar/campus-imaotai)
+- [wd210010/only_for_happly: 农★腾讯视频签到（会员领成长值）★阿里云盘签到★爱奇艺签到刷时长 (github.com)](https://github.com/wd210010/only_for_happly)
 - [i茅台，葫芦娃预约脚本](https://github.com/yize8888/maotai)
 - [bxgh01/maotai: 茅台脚本分享研究，茅台预约，茅台抢购，茅台购买研究 (github.com)](https://github.com/bxgh01/maotai?tab=readme-ov-file)
 
